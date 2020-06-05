@@ -1,0 +1,5 @@
+    There were 2 problems I encountered in the December 2014 Bronze problem 1, Marathon. The first was that I was reiterating
+through the same sets of values. I fixed this by only comparing the sets of data that are different. The second problem
+is that i was using a built-in-function in the wrong place. Doing so led to the function giving out the wrong set of data.
+I found this bug by first finding which part of my code was having errors, the looking through the see what could have
+went wrong.

@@ -1,0 +1,4 @@
+Lesson Learned: Usaco
+    Recently I learned a lesson for coding. I shouldn’t get frustrated if my code doesn't work. If I don’t understand my
+logic, write it down. Make sure that my code is clear. Ask for help when I need it. Last but not least, make sure to
+divide and conquer.
