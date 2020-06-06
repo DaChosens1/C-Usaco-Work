@@ -1,6 +1,0 @@
-    I should use the modular approach while coding. It makes it easier to write. It makes the code easier to read. It
-makes debugging easier.
-    I should use print while debugging.  I can check if a section is working or not by seeing if the output is the
-expected value.
-    I shouldn't give up while debugging. Be persistent and try to get the problem done. If I can't solve the problem on
-my own, ask for help.
